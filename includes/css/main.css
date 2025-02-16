@@ -1,0 +1,26 @@
+.j-c-c {
+    justify-content: center !important;
+}
+.j-c-b{
+    justify-content: space-between !important;
+}
+.al-i-s{
+    align-items: flex-start !important;
+}
+.al-i-c{
+    align-items: center !important;
+}
+.al-i-e{
+    align-items: flex-end !important;
+}
+.td-n{
+    text-decoration: none !important;
+}
+#deleteUser{
+    cursor: pointer;
+}
+#updateUser{
+    cursor: pointer;
+}
+
+
